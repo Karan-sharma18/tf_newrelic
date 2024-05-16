@@ -1,0 +1,1 @@
+{"Modules":[{"Key":"","Source":"","Dir":"."},{"Key":"alert_policy","Source":"./modules/alert_policy","Dir":""},{"Key":"dashboard","Source":"./modules/dashboard","Dir":""},{"Key":"nrql_alert_condition","Source":"./modules/nrql_alert_condition","Dir":""}]}
